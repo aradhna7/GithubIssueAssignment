@@ -1,0 +1,8 @@
+//get issues
+export const GET_ISSUES_FAIL = "GET_ISSUES_FAIL";
+export const GET_ISSUES_REQUEST = "GET_ISSUES_REQUEST";
+export const GET_ISSUES_SUCCESS = "GET_ISSUES_SUCCESS";
+
+export const GET_REPO_FAIL = "GET_REPO_FAIL";
+export const GET_REPO_REQUEST = "GET_REPO_REQUEST";
+export const GET_REPO_SUCCESS = "GET_REPO_SUCCESS";
